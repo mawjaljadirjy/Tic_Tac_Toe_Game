@@ -116,23 +116,3 @@ while continue_game==True:
     continue_game=False
     print("Thank you")
     
-
-      
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
